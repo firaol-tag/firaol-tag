@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm <span style="color:#f7797d;">Firaol Tegene</span> 👋</h1>
 
-<p align="center rounded-full">
+<p align="center ">
   <a href="https://github.com/firaol-tag">
     <img src="https://avatars.githubusercontent.com/u/133232765?v=4" alt="Firaol Tegene" width="120" style="border-radius:50%">
   </a>
