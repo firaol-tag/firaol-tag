@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Firaol Tegene
 
-I'm a passionate **Full-Stack Web Developer** from Ethiopia, with a strong focus on building real-world applications using the **MERN stack** (MongoDB, Express, React, Node.js). I enjoy turning ideas into functional and scalable software—clean UI, solid backend, and everything in between.
-
 ---
-
-## 🚀 About Me
 
 I'm a passionate **Full-Stack Developer** who loves turning ideas into real-world applications. I specialize in building scalable backend systems and sleek, modern interfaces. Whether it's crafting intuitive UIs or architecting robust APIs, I thrive in fast-paced environments and enjoy tackling complex problems with simple, efficient solutions.
 
@@ -80,14 +76,6 @@ I’m constantly evolving as a developer—embracing new tools, trends, and tech
 - **Wara Technology**  
   *Full-stack Web Developer*  
   ➤ Developed a responsive and accessible business website for digital presence
-
----
-
-## 🎓 Education
-
-- 🎓 **BSc in Software Engineering** — Arba Minch University  
-- 💻 **Full-Stack Development Bootcamp** — Evangadi Tech  
-- 🌐 **MERN Stack Certificate** — Mind Luster  
 
 ---
 
