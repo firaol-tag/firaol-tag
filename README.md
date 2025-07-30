@@ -1,19 +1,6 @@
-<!-- Banner Image -->
+# 👋 Hi, I'm Firaol Tegene
 
-<h1 align="center">Hi there, I'm <span style="color:#f7797d;">Firaol Tegene</span> 👋</h1>
-
-<p align="center ">
-  <a href="https://github.com/firaol-tag">
-    <img src="https://avatars.githubusercontent.com/u/133232765?v=4" alt="Firaol Tegene" width="120" style="border-radius:50%">
-  </a>
-</p>
-
-<p align="center">
-  <b>💻 Full-Stack Developer | 🧠 Problem Solver | 🚀 Tech Enthusiast</b>  
-  <br/>
-  Addis Ababa, Ethiopia  
-  <br/>
-</p>
+I'm a passionate **Full-Stack Web Developer** from Ethiopia, with a strong focus on building real-world applications using the **MERN stack** (MongoDB, Express, React, Node.js). I enjoy turning ideas into functional and scalable software—clean UI, solid backend, and everything in between.
 
 ---
 
