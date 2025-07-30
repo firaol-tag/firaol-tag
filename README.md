@@ -1,11 +1,8 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://github.com/firaol-tag" alt="Firaol Tegene Profile Banner" style="width:100%; max-height:320px;" />
-</p>
 
 <h1 align="center">Hi there, I'm <span style="color:#f7797d;">Firaol Tegene</span> 👋</h1>
 
-<p align="center">
+<p align="center rounded-full">
   <a href="https://github.com/firaol-tag">
     <img src="https://avatars.githubusercontent.com/u/133232765?v=4" alt="Firaol Tegene" width="120" style="border-radius:50%">
   </a>
@@ -16,7 +13,6 @@
   <br/>
   Addis Ababa, Ethiopia  
   <br/>
-  📫 <a href="mailto:firaolteg46@gmail.com">firaolteg46@gmail.com</a> | <a href="https://www.linkedin.com/in/firaol-tegene-a8461a232">LinkedIn</a>
 </p>
 
 ---
